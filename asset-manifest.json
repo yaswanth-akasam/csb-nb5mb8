@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/css/main.7c43f5fa.chunk.css",
+    "main.js": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/js/main.9c7ea841.chunk.js",
+    "main.js.map": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/js/main.9c7ea841.chunk.js.map",
+    "runtime-main.js": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/js/runtime-main.38639af7.js",
+    "runtime-main.js.map": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/js/runtime-main.38639af7.js.map",
+    "static/js/2.53327ca8.chunk.js": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/js/2.53327ca8.chunk.js",
+    "static/js/2.53327ca8.chunk.js.map": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/js/2.53327ca8.chunk.js.map",
+    "index.html": "https://yaswanth-akasam.github.io/csb-nb5mb8/index.html",
+    "static/css/main.7c43f5fa.chunk.css.map": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/css/main.7c43f5fa.chunk.css.map",
+    "static/js/2.53327ca8.chunk.js.LICENSE.txt": "https://yaswanth-akasam.github.io/csb-nb5mb8/static/js/2.53327ca8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38639af7.js",
+    "static/js/2.53327ca8.chunk.js",
+    "static/css/main.7c43f5fa.chunk.css",
+    "static/js/main.9c7ea841.chunk.js"
+  ]
+}
